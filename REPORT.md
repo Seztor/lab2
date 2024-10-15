@@ -9,5 +9,5 @@
    А также добавляем после двоичного числа точку - разделитель, если наше число не последнее в списке
 ![image](https://github.com/user-attachments/assets/a9f1ab04-2ef5-4bae-ab12-4b94c3a6b1f7)
 4. Пример работы и полный код
-![image](https://github.com/user-attachments/assets/adfcc50a-b8c0-4654-a9c5-ce0484990805)
 ![image](https://github.com/user-attachments/assets/fe9e4af6-9071-4b8d-9970-925f6ab4c49f)
+![image](https://github.com/user-attachments/assets/adfcc50a-b8c0-4654-a9c5-ce0484990805)
